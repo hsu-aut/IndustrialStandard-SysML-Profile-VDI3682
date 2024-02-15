@@ -1,2 +1,4 @@
 # IndustrialStandard-SysML-Profile-VDI3682
 Profile for modeling the VDI3862 standard in SysML
+The formalized process description SysML Profile is based on the VDI 3682 guidline according to [1]. The formalized process description enables a standardized description of all kinds of processes. It is applicable for technical, non-technical, continuous, batch and discrete processes. A process describes the desired behavior of a system, by means of a solution neutral description of inputs and outputs. Inputs and outputs (product, energy or information) are transformed by a process (desired behavior), while the process is performed by a technical resource. The technical resource is able to implement certain processes and is an abstract description of a system containing hardware (structure) and software (behavior) aspects.
+[1] Guideline VDI/VDE 3682-1. Formalized Process Descriptions, 05.2015.
